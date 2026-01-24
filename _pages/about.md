@@ -5,7 +5,7 @@ permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
-  name: Ying Fu
+  name: Ying Fu 
   align: left
   image: profile.jpeg
   image_circular: false # crops the image to make it circular
